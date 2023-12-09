@@ -33,3 +33,5 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,mongo,express,react,nodejs" />
   </a>
 </p>
+
+![My Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frustrated018&theme=github_dark)
