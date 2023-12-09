@@ -2,8 +2,13 @@
 <img src="./images/coverPhoto.jpg" />
 </a>
 
-## :bar_chart: Stats
+## :male_detective: About Me
+<br />
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&weight=500&size=30&duration=2000&pause=500&color=00F747&random=false&width=435&lines=Hi!+I'm+Niloy!!;A+MERN+Stack+Based+;Front-End+Focused;Web+Developer" alt="Typing SVG" /></a>
+</p>
 
+## :bar_chart: Stats
 <br />
 
 <p align="center">
