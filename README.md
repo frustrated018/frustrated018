@@ -6,7 +6,7 @@
 
 <br />
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&weight=500&size=30&duration=2000&pause=200&color=40C463&random=false&width=700&lines=Hi!+I'm+Niloy!!;A+MERN+Stack+Based+;Front-End+Focused;Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&weight=500&size=30&duration=2000&pause=200&color=40C463&center=true&vCenter=true&random=false&width=700&lines=Hi!+I'm+Niloy!!;A+MERN+Stack+Based+;Front-End+Focused;Web+Developer" alt="Typing SVG" /></a>
 </p>
 
 ## :bar_chart: Stats
