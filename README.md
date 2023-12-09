@@ -21,13 +21,13 @@
 
 <br />
 <p align="center">
-  <a href="">
+  <a href="https://www.linkedin.com/in/niloy-das1/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>   
-  <a href="">
+  <a href="https://www.instagram.com/_nil0y_/">
     <img src="./icons/insta.svg"/>
   </a>   
-  <a href="">
+  <a href="https://t.me/niloydas003">
     <img src="./icons/telegram.svg"/>
   </a>
   
