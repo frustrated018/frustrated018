@@ -22,18 +22,19 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=linkedin" style="margin-right: 10px;" />
+  </a>   
   <a href="">
-    <img src="./icons/insta.svg" />
-  </a>
+    <img src="./icons/insta.svg" style="margin-right: 10px;" />
+  </a>   
   <a href="">
-    <img src="./icons/telegram.svg" />
+    <img src="./icons/telegram.svg" style="margin-right: 10px;" />
   </a>
   <a href="">
     <img src="./icons/whatsapp.svg" />
   </a>
 </p>
+
 
 ## :man_technologist: My tech Stack
 
@@ -64,4 +65,4 @@
 
 ### 🤔 I’m trying - To learn animation for websites.
 
-### ⚡ Fun fact - I love reading manga and have read over 30 manga titles this year.
+### ⚡ Fun fact - I love Anime, and my profile picture is based on my all-time favorite, "Death Note".
