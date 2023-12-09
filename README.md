@@ -3,12 +3,14 @@
 </a>
 
 ## :male_detective: About Me
+
 <br />
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&weight=500&size=30&duration=2000&pause=500&color=00F747&random=false&width=435&lines=Hi!+I'm+Niloy!!;A+MERN+Stack+Based+;Front-End+Focused;Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&weight=500&size=30&duration=2000&pause=200&color=40C463&random=false&width=700&lines=Hi!+I'm+Niloy!!;A+MERN+Stack+Based+;Front-End+Focused;Web+Developer" alt="Typing SVG" /></a>
 </p>
 
 ## :bar_chart: Stats
+
 <br />
 
 <p align="center">
@@ -43,6 +45,7 @@
 </p>
 
 ## :star2: My Contributions
+
 <br />
 
 <p align="center">
@@ -50,10 +53,15 @@
 </p>
 
 ## :eyes: Current overview
+
 <br />
 
-### 🔭 I’m searching - For jobs in Web development. 
-### 🌱 I’m exploring - Next.js & Material UI. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To learn animation for websites. 
+### 🔭 I’m searching - For jobs in Web development.
+
+### 🌱 I’m exploring - Next.js & Material UI.
+
+### 👯 I’m looking - To collaborate on open source projects.
+
+### 🤔 I’m trying - To learn animation for websites.
+
 ### ⚡ Fun fact - I love reading manga and have read over 30 manga titles this year.
