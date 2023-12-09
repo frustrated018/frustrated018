@@ -3,6 +3,7 @@
 </a>
 
 ## :bar_chart: Stats
+
 <br />
 
 <p align="center">
@@ -10,6 +11,7 @@
 </p>
 
 ## :globe_with_meridians: Connect with me
+
 <br />
 <p align="center">
   <a href="">
@@ -27,6 +29,7 @@
 </p>
 
 ## :man_technologist: My tech Stack
+
 <br />
 <p align="center">
   <a href="">
@@ -34,4 +37,9 @@
   </a>
 </p>
 
-![My Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frustrated018&theme=github_dark)
+## :star2: My Contributions
+<br />
+
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frustrated018&theme=github_dark" />
+</p>
