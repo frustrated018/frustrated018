@@ -22,16 +22,16 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=linkedin" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" style="margin-right:10px;" />
   </a>   
   <a href="">
-    <img src="./icons/insta.svg" style="margin-right: 10px;" />
+    <img src="./icons/insta.svg" style="margin-right:10px;" />
   </a>   
   <a href="">
-    <img src="./icons/telegram.svg" style="margin-right: 10px;" />
+    <img src="./icons/telegram.svg" style="margin-right:10px;" />
   </a>
   <a href="">
-    <img src="./icons/whatsapp.svg" />
+    <img src="./icons/Twitter X.svg" style="height:48px;"/>
   </a>
 </p>
 
