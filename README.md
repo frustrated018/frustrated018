@@ -43,3 +43,12 @@
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frustrated018&theme=github_dark" />
 </p>
+
+## :eyes: Current overview
+<br />
+
+### 🔭 I’m searching - For jobs in Web development. 
+### 🌱 I’m exploring - Next.js & Material UI. 
+### 👯 I’m looking - To collaborate on open source projects. 
+### 🤔 I’m trying - To learn animation for websites. 
+### ⚡ Fun fact - I love reading manga and have read over 30 manga titles this year.
