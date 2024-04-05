@@ -21,24 +21,23 @@
 
 <br />
 <p align="center">
-  <a href="https://www.linkedin.com/in/niloy-das1/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <a href="www.linkedin.com/in/niloydas1">
+    <img src="./icons/linkedin.svg"/>
   </a>   
   <a href="https://www.instagram.com/_nil0y_/">
-    <img src="./icons/insta.svg"/>
+    <img src="./icons/instagram.svg"/>
   </a>   
-  <a href="https://t.me/niloydas003">
-    <img src="./icons/telegram.svg"/>
-  </a>
-  
+  <a href="https://twitter.com/NiloyDas003">
+    <img src="./icons/X.svg"/>
+  </a>   
 </p>
 
 ## :man_technologist: My tech Stack
 
 <br />
 <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,mongo,express,react,nodejs" />
+  <a href="www.linkedin.com/in/niloydas1">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,mongo,express,nodejs,vercel,netlify&perline=4" />
   </a>
 </p>
 
